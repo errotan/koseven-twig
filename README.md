@@ -1,7 +1,7 @@
 koseven-twig
 ============
 
-[![Build Status](https://travis-ci.org/errotan/koseven-twig.svg?branch=master)](https://travis-ci.org/errotan/koseven-twig)
+[![Build Status](https://travis-ci.com/errotan/koseven-twig.svg?branch=master)](https://travis-ci.com/errotan/koseven-twig)
 
 Koseven-twig is a [Koseven][1] module for the popular [Twig][2] template
 engine. It was designed to offer the full capabilities of Twig with a strong
